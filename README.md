@@ -1,4 +1,4 @@
-**Dot Art Maker**
+##Dot Art Maker
 
 Dot Art Maker is a simple Python application that allows you to create dot art using the turtle graphics library. You can choose the number of dots to create and customize the canvas size. Additionally, there is an option to choose an image to process, although this feature is not implemented yet.
 
